@@ -10,3 +10,6 @@ Example: `./fdz mobileread`
 
 For use this utility need compiling the cource code. 
 For compile this utility download the file `fdz.cpp` and write in terminal: `gcc fdz.cpp -o fdz`. 
+
+If you want to make this file a linux command, please copy the executable `fdz` into `/usr/local/bin` directory. 
+When it is copied, you will be able to write in the terminal `fdz <name>` without `./` in any directory.
