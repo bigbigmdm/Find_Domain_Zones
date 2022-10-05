@@ -8,4 +8,5 @@ Example: `./fdz mobileread`
  ![CH341A programmer device](https://github.com/bigbigmdm/Find_Domain_Zones/raw/main/fdz_example.png) 
 
 
-For use this utility need compiling the cource code. For compile this utility download the file `fdz.cpp` and write in terminal: `gcc fdz.cpp -o fdz`. 
+For use this utility need compiling the cource code. 
+For compile this utility download the file `fdz.cpp` and write in terminal: `gcc fdz.cpp -o fdz`. 
